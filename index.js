@@ -20,8 +20,8 @@
 // } else {
 //   score = score- 1;
 //   console.log ('You are wrongm You scored' + score)
-// }
-/***********************/ Function method___
+// // }
+// /***********************/ Function method___
 
 // var readlineSync = require('readline-sync');
 // var score = 0;
@@ -57,10 +57,10 @@ var questions = [{
   question: 'Where do I work? ',
   answer: 'ibm'
 }, {
-  question: 'How do I look? ',
-  answer: 'good'
+  question: 'What is my last name? ',
+  answer: 'singh'
 }, {
-  question: 'What I like? ',
+  question: 'What do I like? ',
   answer: 'coding'
 }]
 
